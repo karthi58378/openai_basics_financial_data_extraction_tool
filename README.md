@@ -1,0 +1,2 @@
+# openai_basics_financial_data_extraction_tool
+openai_basics_financial_data_extraction_tool
